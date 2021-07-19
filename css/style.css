@@ -312,7 +312,7 @@ header.sticky nav li a {  /* ul */
         cursor: pointer;
     }
     .toggle.active {
-        background-image: url(/img/menu.png);
+        background-image: url(/img/close.png);
         background-position: center;
         background-repeat: no-repeat;
         background-size: 25px;
