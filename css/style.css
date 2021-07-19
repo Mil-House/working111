@@ -140,7 +140,7 @@ body {
 {
     position: relative;
     min-height: 100vh;
-    background-image: url(https://github.com/Mil-House/working111/img/imglow.jpeg);
+    background-image: url(https://working111/imglow.jpeg);
     background-size: cover;
     background-position: right;
     display: flex;
