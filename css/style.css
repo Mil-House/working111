@@ -140,7 +140,7 @@ body {
 {
     position: relative;
     min-height: 100vh;
-    background-image: url(https://cdn.wallpapersafari.com/31/92/zjU1Ww.jpg);
+    background-image: url(/img/imglow.jpeg);
     background-size: cover;
     background-position: right;
     display: flex;
@@ -305,14 +305,14 @@ header.sticky nav li a {  /* ul */
     .toggle {
         width: 40px;
         height: 40px;
-        background: url(https://github.com/Mil-House/working111/imglow.jpeg);
+        background-image: url(/img/menu.png);
         background-position: center;
         background-repeat: no-repeat;
         background-size: 30px;
         cursor: pointer;
     }
     .toggle.active {
-        background: url(https://github.com/Mil-House/working111/imglow.jpeg);
+        background-image: url(/img/close.png);
         background-position: center;
         background-repeat: no-repeat;
         background-size: 25px;
