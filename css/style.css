@@ -140,7 +140,7 @@ body {
 {
     position: relative;
     min-height: 100vh;
-    background: url(https://cdn.wallpapersafari.com/31/92/zjU1Ww.jpg);
+    background: url("assets/images/imglow.jpeg");
     background-size: cover;
     background-position: right;
     display: flex;
