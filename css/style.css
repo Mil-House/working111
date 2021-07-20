@@ -140,7 +140,7 @@ body {
 {
     position: relative;
     min-height: 100vh;
-    background: url("images/imphoto.jpg");
+    background: url("/images/imphoto.jpg");
     background-size: cover;
     background-position: right;
     display: flex;
