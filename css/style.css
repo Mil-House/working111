@@ -140,7 +140,7 @@ body {
 {
     position: relative;
     min-height: 100vh;
-    background: url("assets/images/imglow.jpeg");
+    background: url("/assets/images/imglow.jpeg");
     background-size: cover;
     background-position: right;
     display: flex;
