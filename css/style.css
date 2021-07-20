@@ -305,14 +305,14 @@ header.sticky nav li a {  /* ul */
     .toggle {
         width: 40px;
         height: 40px;
-        background: url(https://lh3.googleusercontent.com/pw/AM-JKLVwx1E2QzfJzbJD2HDmHQatBlYSiJqoKA0CYAa4qxFux4xg2U9CTpbGJhCsVT7ne6hAeCNR-edreK6XQjUh4DwONBrAFv1wJfHLZ3zpL9DZF89MI8V_K4mkm3MOZ8LKsOnR3MRIHm83821BQKOFc2Ji=w47-h31-no?authuser=0);
+        background-image: url('https://Mil-House.github.io/working111/images/menu.png');
         background-position: center;
         background-repeat: no-repeat;
         background-size: 30px;
         cursor: pointer;
     }
     .toggle.active {
-        background: url(https://lh3.googleusercontent.com/pw/AM-JKLXDB4_T8mJj83V2fHRKsAdNY-DtMqpX_FetwY1TBZD7FP1fSNq6-9Pp3_ka1pCpbfgftYr-Qdr6R7M3eUh_5IQzSuRLLvYjHP2yFrPIJ_NkNElfwBOo7GpXGoG2nnrDV0S_oSo05xDO7u0xl2JD7tZj=w36-h38-no?authuser=0);
+        background-image: url('https://Mil-House.github.io/working111/images/close.png');
         background-position: center;
         background-repeat: no-repeat;
         background-size: 25px;
